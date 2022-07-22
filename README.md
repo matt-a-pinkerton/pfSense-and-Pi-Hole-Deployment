@@ -202,6 +202,9 @@ First command should return an IP address, second should not and say failure, an
 
 ![image](https://user-images.githubusercontent.com/102389429/180333964-f7122bdf-a5a3-48b2-99ce-39a45c9692b4.png)
  
+ ----
+## Pi-Hole/pfSense Configuration
+ 
 Last step is to configure Pi-Hole itself using the web interface.
 
 Log in and go to “Settings” then “DNS”
