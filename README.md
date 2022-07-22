@@ -1,9 +1,6 @@
 # pfSense-and-Pi-Hole-Deployment
 Repurposed a computer to run pfSense, and a Raspberry Pi to run Pi-Hole
 
-### Table of Contents
-[Installing NetData](https://github.com/matt-a-pinkerton/pfSense-and-Pi-Hole_Deployment#Installing NetData)
-
 ## Pi-Hole Installation and Setup
 
 ### Components Used:
