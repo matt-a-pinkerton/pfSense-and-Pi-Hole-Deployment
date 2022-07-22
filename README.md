@@ -208,7 +208,7 @@ Log in and go to “Settings” then “DNS”
 
 ![image](https://user-images.githubusercontent.com/102389429/180334009-00cd56c3-9274-4e2d-9984-3f7d4129c70d.png)
  
-Then set Pi-Hole's IP as your DNS server on pfSense and pfSense's IP as the upstream DNS server on Pi-Hole.  
+Then set pfSense's IP as the upstream DNS server on Pi-Hole.  
 
 In pfSense go to “Services” then “DHCP Server” and input Pi-Hole’s IP as the DNS Server.  Also make sure that it is assigned and listed the static IP at the bottom of that page.
 
