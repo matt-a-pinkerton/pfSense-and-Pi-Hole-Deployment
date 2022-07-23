@@ -220,9 +220,11 @@ Then do one final test by visiting a website to see if it loads and if ads are r
 ----
 ## Installing NetData
 Will give access to charts showing among others:
+
 ![image](https://user-images.githubusercontent.com/102389429/180591289-93b87e26-adc5-49df-9495-1c0e082ee239.png)
 ![image](https://user-images.githubusercontent.com/102389429/180591293-3a700f37-771e-42bf-b6f9-1e41e910f430.png)
 ![image](https://user-images.githubusercontent.com/102389429/180591294-1e7e972c-8782-4fa6-b530-b0f8bb0c37e3.png)
+
 To Install start with the command:
 - sudo wget -O /tmp/netdata-kickstart.sh https://my-netdata.io/kickstart.sh && sh /tmp/netdata-kickstart.sh --disable-telemetry
 
