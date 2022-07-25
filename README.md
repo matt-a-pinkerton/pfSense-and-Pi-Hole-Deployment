@@ -21,15 +21,13 @@ Repurposed a computer to run pfSense, and a Raspberry Pi to run Pi-Hole
 
 Flash the SD card using Balena with Raspberry Pi OS Lite, insert the card when done into the Pi and connect a monitor and keyboard.
 
-Run initial setup and then reboot the device and go into the configuration
-
+Run initial setup and go into the configuration using the command: 
+- sudo raspi-config
 
 ----
 ## Enable SSH
 
-Use the command: 
-
-- sudo raspi-config
+Once on the menu screen follow the screenshots below to activate SSH.
 
 ![image](https://user-images.githubusercontent.com/102389429/180330475-de0799e3-2001-436e-987e-51de77b8572b.png)
 
