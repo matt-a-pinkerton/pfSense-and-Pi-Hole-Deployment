@@ -43,7 +43,7 @@ First update to ensure latest version with command:
 - sudo apt update && sudo apt full-upgrade -y
 
 Next change the time zone to the correct one with command:
-- Dpkg-reconfigure tzdata
+- sudo dpkg-reconfigure tzdata
 
 ![image](https://user-images.githubusercontent.com/102389429/180332696-3c622eb2-42df-4931-a015-fc11b220a60b.png)
 
